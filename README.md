@@ -8,8 +8,13 @@ This case study desonstrates data preperation, data visualization, machine learn
 We then prepare a presentation to help the business make a decesion on how to prevent customer churn
 
 Files included:
+
 customer_churn.csv	-The complete Data Set
+
 customer _churn_processed.csv -The Data Set after cleaning and preparation for modeling
+
 Churn.ipynb -the main python notebook with all the code
-Customer Churn Version 5.pdf -The python notebook (Churn.ipynb) in pdf form
+
+Churn(1).pdf -The python notebook (Churn.ipynb) in pdf form
+
 Predicting Customer Churn.pdf -Business presentation of results
