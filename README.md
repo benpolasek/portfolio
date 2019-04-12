@@ -19,16 +19,14 @@ Churn(1).pdf -The python notebook (Churn.ipynb) in pdf form
 
 Predicting Customer Churn.pdf -Business presentation of results
 
-# Social Media Comment Volume Prediction using Neural Networks and Decision Trees
-# (Work in Progress)
-The aim of this project is to validate the results of the following research paper and to try and improve them by using a MLP(Multi Layer Perceptron) Neural Network. 
-Paper: http://uksim.info/uksim2015/data/8713a015.pdf
+# Stock market trend prediction
 
-The goal of the paper and this project is to model Facebook user comment patterns to predict the number of comments a post is likely to recieve over n number of hours. 
+The goal is to predict whether the trend of a stock price is going to rise, fall or be flat
 
-# Big data tool
-# (Work in Progress)
+# Big data tools (Work in progress)
+# Analysis of Toront Subway delay times using Spark and Spark MLlib 
 
 # Statistical Modeling Project
 # (Work in Progress)
-Produce a full statistical model 
+# Black Friday Sales Data
+Produce a full statistical model and analysis
